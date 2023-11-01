@@ -1,0 +1,125 @@
+.topnav {
+ background-color:#000000;
+ overflow: hidden;
+}
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  padding: 14px 200px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.topnav a.active {
+  
+  color: red;
+}
+footer {
+width: 1500px;
+height: 150px;
+background-color: #ff6600;
+padding:25px;
+text-align:center;
+}
+
+
+
+.container {
+  position: relative;
+  text-align: left;
+  color: white;
+}
+
+.top-left {
+  position: absolute;
+  top: 156px;
+  left: 106px;
+  font-size: 54px;
+}
+.contact {
+width: 1500px;
+height: 150px;
+background-color:#81e2e0;
+padding:25px;
+text-align:center;
+}
+
+.img1 {
+width: 1500px;
+height: 400px;
+background-color: #d5f3f6;
+padding:25px;
+
+}
+
+.simg2 {
+width: 1500px;
+height: 400px;
+background-color: #f4f1cd;
+padding:25px;
+
+}
+
+.dimg3 {
+width: 1500px;
+height: 400px;
+background-color: #c6f2da;
+padding:25px;
+
+}
+
+.fimg4 {
+width: 1500px;
+height: 400px;
+background-color: #f7e3dc;
+padding:25px;
+
+}
+
+.gimg5 {
+width: 1500px;
+height: 400px;
+background-color: #e6e5f9;
+padding:25px;
+
+}
+.top-1 {
+  position: absolute;
+  top: 56px;
+  left: 500px;
+  font-size: 34px;
+color:#000000;
+}
+.top-2 {
+  position: absolute;
+  top: 556px;
+  left: 500px;
+  font-size: 34px;
+color:#000000;
+}
+.top-3 {
+  position: absolute;
+  top: 1000px;
+  left: 500px;
+  font-size: 34px;
+color:#000000;
+}
+.top-4 {
+  position: absolute;
+  top: 1450px;
+  left: 500px;
+  font-size: 34px;
+color:#000000;
+}
+.top-5 {
+  position: absolute;
+  top: 1900px;
+  left: 500px;
+  font-size: 34px;
+color:#000000;
+}
